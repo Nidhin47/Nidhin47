@@ -9,7 +9,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhin47" alt="nidhin47" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+- 🔭 I’m currently working on **IRCS**
+
 - 🌱 I’m currently learning **Flutter**
+
+- 💬 Ask me about **Flutter, Arduino**
 
 - 📫 How to reach me **nidhinshajujoseph@gmail.com**
 
